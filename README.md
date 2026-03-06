@@ -1,6 +1,6 @@
 # github-user-activity
 A simple Node.js CLI tool that fetches and displays the recent public activity of any GitHub user using the GitHub API.
-
+Idea from: https://roadmap.sh/projects/github-user-activity
 ## How to run
 
 Clone the repository and run the following command:
